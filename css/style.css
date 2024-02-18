@@ -1,4 +1,25 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+#pink-nav{
+    background-color: #EFD7E5;
+    justify-content: center;
+}
+#nav{
+    background-color: transparent;
+    position: fixed;
+}
+#nav:hover{
+    background-color: white;
+}
+#banner{
+    top: 0%;
+    height: 100vh;
+    background-image: url(../assests/020724_Lip-Butter_Site-Assets_Desktop_Kylie_REV-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
